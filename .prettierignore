@@ -1,0 +1,6 @@
+.replit
+replit.nix
+package-lock.json
+package.json
+.cache/
+.prettierrc.json
